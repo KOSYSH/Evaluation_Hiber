@@ -1,8 +1,0 @@
-target/
-data/
-.idea/
-*.iml
-*.iws
-*.ipr
-**/hibernate.local.cfg.xml
-.DS_Store
